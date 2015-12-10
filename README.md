@@ -1,2 +1,2 @@
-ceci est une gestionnaire de reservation
-=====
+Gestionnaire de réservations
+===========================
